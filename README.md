@@ -2,7 +2,7 @@
 
 A tiny collection of text helper functions, used as a practice project for my first pull request.
 
-## Instalation
+## Installation
 
 No dependencies are required. Just clone the repo and import the module:
 
